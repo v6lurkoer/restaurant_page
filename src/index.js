@@ -1,3 +1,2 @@
+import { stuff } from "./xd.js";
 import "./style.css";
-
-console.log("helloworld");
